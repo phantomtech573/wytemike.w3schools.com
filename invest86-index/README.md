@@ -1,4 +1,4 @@
-[README.md](https://github.com/phantomtech573/invest86-index-html-txt/README.md)
+[README.md]([https://github.com/phantomtech573/invest86-index-html-txt/README.md])
 # <a href="https://sites.google.com/view/www-invest86-net/github_com-phantomtech573-invest86_net_index_html?authuser">invest86-html-txt</a>
 Multi-code &amp; platform webpage doc
 <html>
