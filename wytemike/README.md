@@ -31,7 +31,7 @@ out/
 
 #  Uncomment the following line in case you need and you don't have the release build type files in your app
 
-# release/
+# release/https://sites.google.com/view/www-invest86-net/github_com-phantomtech573-invest86_net_index_html?authuser
 
 # Gradle files
 
