@@ -1,14 +1,12 @@
-# Built application files
-*.apk
-*.aar
-*.ap_
-*.aab
+# Built application files*```
+.apk,
+.aar,
+.ap,
+.aab,
 
-# Files for the ART/Dalvik VM
-*.dex
+# Files for the ART/Dalvik VM.dex
 
-# Java class files
-*.class
+# Java class files.class
 
 # Generated files
 bin/
